@@ -750,4 +750,7 @@ body::-webkit-scrollbar-thumb:hover {
       .dropdown-content.active::-webkit-scrollbar-thumb:hover {
         background-color: rgba(0, 0, 0, 0.4); 
       }
+      html{
+          margin-left:15rem;
+      }
   }
