@@ -752,3 +752,8 @@ body::-webkit-scrollbar-thumb:hover {
       }
       
   }
+ @media (max-width:500px) {
+    html {
+        margin-left:20rem;
+      }
+  }
