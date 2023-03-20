@@ -752,8 +752,28 @@ body::-webkit-scrollbar-thumb:hover {
       }
       
   }
- @media (max-width:500px) {
+ @media (max-width:480px) {
     html {
         margin-left:20rem;
       }
+        .main-about ,
+    .main-skill ,
+    .main-qualification ,
+    .main-contact-me {
+        width: 500px !important;
+    }
+    .main-about .right {
+        display: flex;
+        flex-direction: column;
+    }
+    .main-skill {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .main-qualification {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
   }
