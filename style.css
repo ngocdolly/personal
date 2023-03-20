@@ -572,6 +572,9 @@ header{
     .dropdown-content {
       max-height: 200px;
     }
+      .footer{
+          width:700px;
+      }
   }
 
 
