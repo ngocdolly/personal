@@ -523,7 +523,6 @@ header{
     left:-.3rem !important;
   }
   .dropdown {
-    position: relative;
     display: inline-block;
   }
   
