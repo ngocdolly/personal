@@ -542,7 +542,7 @@ header{
   .dropdown-content.active{
     display:block;
     overflow:hidden;
-    width: 100%;
+    width: 282.828px;
   }
   
   .dropdown-content a {
